@@ -44,3 +44,12 @@ TagManager:
   - name: Bg
     uniqueID: 1041097357
     locked: 0
+  - name: Cover
+    uniqueID: 2331259129
+    locked: 0
+  - name: Effect
+    uniqueID: 2269457327
+    locked: 0
+  - name: Player
+    uniqueID: 3071035585
+    locked: 0
